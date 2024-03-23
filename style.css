@@ -1,0 +1,13 @@
+header{
+    margin-top: 1rem;
+}
+header a{
+    text-decoration: none;
+}
+.Work h1{
+    text-align: center;
+}
+.Work h4{
+    display: inline-block;
+    margin-left: 87rem;
+}
